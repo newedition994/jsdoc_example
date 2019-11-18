@@ -17,3 +17,12 @@ const studentName = "John Doe";
  * @type {Array<number>}
  */
 const grades = [98, 97.7, 76, 89];
+
+/**
+ * Todo object
+ * @type {{id: number|string, text: string}}
+ */
+const todo = {
+  id: "1",
+  text: "Hello"
+};
