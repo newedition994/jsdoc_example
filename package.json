@@ -1,0 +1,14 @@
+{
+  "name": "jsdoc_example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "doc": "jsdoc -c jsdoc.json"
+  },
+  "author": "Breyanna Vass",
+  "license": "MIT",
+  "devDependencies": {
+    "jsdoc": "^3.6.3"
+  }
+}
