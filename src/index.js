@@ -1,5 +1,5 @@
 // @ts-check
-//const { add, subtractm divide, multiply } = require('./calculator');
+const { add, subtract, divide, multiply } = require("./calculator");
 
 /**
  * @file index.js is the root file for this example
