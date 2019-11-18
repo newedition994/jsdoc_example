@@ -83,3 +83,11 @@ class Person {
     console.log(`Hello, my name is ${this.name} and I am ${this.age}`);
   }
 }
+
+/**
+ * See {@link Person}
+ */
+const person1 = new Person({
+  name: "Mack Andrews",
+  age: 29
+});
